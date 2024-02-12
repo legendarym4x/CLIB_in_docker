@@ -15,6 +15,7 @@
    - [File Sorter](#file-sorter-commands)
 5. [License](#license)
 6. [Authors](#authors)
+
 ____
 
 # Project Description
